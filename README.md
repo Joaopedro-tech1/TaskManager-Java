@@ -15,8 +15,4 @@ Este é um simples sistema de gerenciamento de tarefas feito em Java. Ele permit
 - Java (linguagem principal)
 - IDE: Visual Studio Code
 
-##  Como executar
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/JoaoPedro-tech1/Gerenciador-de-Tarefas-Java.git
